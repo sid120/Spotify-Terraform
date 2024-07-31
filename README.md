@@ -3,6 +3,8 @@
 ## Project Overview
 
 This project involves using Terraform to create multiple Spotify playlists for different occasions like morning, evening, party night, etc. Terraform will be used to automate the creation and management of these playlists.
+![image](https://github.com/user-attachments/assets/559e8089-9b75-48d0-9ec3-13ffb334cc4d)
+
 
 ## Prerequisites
 
